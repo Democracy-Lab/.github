@@ -1,6 +1,6 @@
 # Democracy Lab
 
-Welcome to **Democracy Lab** — a collaborative space for projects that explore democracy, technology, and society.
+Welcome to **Democracy Lab** — a space for projects that explore democracy, technology, and society.
 
 ---
 
@@ -12,8 +12,8 @@ Welcome to **Democracy Lab** — a collaborative space for projects that explore
 
 ## About
 We design tools and research methods at the intersection of:
-- Digital Humanities  
-- Artificial Intelligence  
-- Data & Democracy  
+- Data & Democracy
+- - Artificial Intelligence  
+- Digital Humanities
 
 ---
