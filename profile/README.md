@@ -13,7 +13,7 @@ Welcome to **Democracy Lab** — a space for projects that explore democracy, te
 ## About
 We design tools and research methods at the intersection of:
 - Data & Democracy
-- - Artificial Intelligence  
+- Artificial Intelligence  
 - Digital Humanities
 
 ---
